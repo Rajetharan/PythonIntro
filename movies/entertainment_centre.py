@@ -17,4 +17,12 @@ harry_potter = media.Movie("Harry Potter", "The boy who lived", "https://hips.he
 
 movies = [toy_story, avatar, harry_potter]
 
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+
+#print(media.Movie.VALID_RATINGS)
+
+#print(media.Movie.__doc__)
+
+#print(media.Movie.__name__)
+
+print(media.Movie.__module__)
